@@ -19,5 +19,10 @@ A application built using MERN to search up books using the Google Books API. Us
 ## Website Preview
 ![preview of the website]()
 
+## Credits
+Thank you to [jcgom3](https://github.com/jcgom3) for helping me figure out what I need to do.
+
+Base code was provided my the MSU Bootcamp under Module 21 MERN.
+
 ## License
 This is under the MIT License
